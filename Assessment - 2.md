@@ -11,7 +11,7 @@ File : Assessment-2
   
 Contents :
 
-input image
-output images
+input image,
+output images,
 ipynb file
 

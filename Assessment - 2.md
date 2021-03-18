@@ -1,6 +1,6 @@
 # DL-Assignments---VIT
 
-Due date : 19-Mar-2021
+File : Assessment-2
 
 1. Implementation of activation functions
 2. Write a python code to filter the given image
